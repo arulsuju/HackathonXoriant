@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-java-8.0.12.jar!/" />
+      <root url="jar://C:/JMF-2.1.1e/lib/customizer.jar!/" />
+      <root url="jar://C:/JMF-2.1.1e/lib/jmf.jar!/" />
+      <root url="jar://C:/JMF-2.1.1e/lib/mediaplayer.jar!/" />
+      <root url="jar://C:/JMF-2.1.1e/lib/multiplayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

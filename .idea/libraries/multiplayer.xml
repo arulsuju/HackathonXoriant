@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="multiplayer">
+    <CLASSES>
+      <root url="jar://C:/JMF-2.1.1e/lib/multiplayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
